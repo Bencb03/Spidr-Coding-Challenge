@@ -24,8 +24,7 @@ On submit, the form prints all collected data to the browser console.
 
 ## Live Demo
 
-> **Coming soon!**  
-> Will be replaced with Real URL in a monent, e.g.:  
+> **Test the live demo at the link provided below!**  
 > `https://bencb03.github.io/Spidr-Coding-Challenge`
 
 ---
